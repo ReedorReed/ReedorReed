@@ -4,6 +4,8 @@ I'm learning to build websites 👨‍💻
 
 When I'm not bulding websites, I make coffee or I'm plastic-rock climbing ☕ 🧗‍♂️
 
+![reed logo](https://github.com/ReedorReed/ReedorReed/blob/main/reed-logo.svg)
+
 <!--
 **ReedorReed/ReedorReed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
