@@ -2,7 +2,7 @@
 
 I'm learning to build websites 👨‍💻
 
-When I'm not bulding websites I make coffee and I climb ☕ 🧗‍♂️
+When I'm not bulding websites, I make coffee or I'm plastic-rock climbing ☕ 🧗‍♂️
 
 <!--
 **ReedorReed/ReedorReed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
