@@ -2,7 +2,7 @@
 
 I'm learning to build websites 👨‍💻
 
-When I'm not bulding websites, I make coffee or I'm plastic-rock climbing ☕ 🧗‍♂️
+When I'm not bulding websites, I make and drink coffee or I'm plastic-rock climbing ☕ 🧗‍♂️
 
 ![reed logo](https://github.com/ReedorReed/ReedorReed/blob/main/reed-logo.svg)
 
