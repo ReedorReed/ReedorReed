@@ -1,4 +1,4 @@
-### Hi there I'm Christian 🤙
+### Hello there, I'm Christian 🤙
 
 I'm learning to build websites 👨‍💻
 
