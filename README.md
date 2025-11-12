@@ -1,6 +1,6 @@
 ### Hello there, I'm Christian 🤙
 
-I'm learning to build websites 👨‍💻
+I'm building websites 👨‍💻
 
 When I'm not building websites, I make and drink coffee or I'm plastic-rock climbing ☕ 🧗‍♂️
 
