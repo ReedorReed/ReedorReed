@@ -1,73 +1,23 @@
-### Hello there, I'm Christian 🤙
+# Hi, I’m Christian Reed
 
-I'm building websites 👨‍💻
+I’m a newly qualified web developer based in Denmark. I build responsive, user-focused web applications and enjoy working across the stack — from interface design and React components to APIs, databases and deployment.
 
-When I'm not building websites, I'm enjoying coffee or I'm plastic-rock climbing ☕ 🧗‍♂️
+## Featured projects
 
+- [Landrup Dans](https://github.com/ReedorReed/landrup-dans-web-app) — my final exam project: a Next.js and TypeScript app for a dance school, with role-based access, server-side session handling, Zod validation and API-driven enrolment rules.
+- [HiFi Horizon](https://github.com/ReedorReed/hifi-horizon) — a full-stack e-commerce application built with React, Express, MongoDB and Mongoose.
+- [Newsify](https://github.com/ReedorReed/project-newsify) — a mobile-first React news reader using the New York Times API, React Context, custom hooks, local persistence and Vitest.
+- [My portfolio](https://www.reed.dk) — selected work, CV and contact details.
 
+## Technologies I work with
 
-# Tech Stack:
-<h3 align="start">Programming Languages</h3>
-<p align="start">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+- **Frontend:** HTML, CSS/Sass, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs, MongoDB and Mongoose
+- **Workflow:** Git/GitHub, Figma, Vite, ESLint and deployment with GitHub Pages/Render
 
-</p>
+## Elsewhere
 
-<h3 align="start">Frontend</h3>
-<p align="start">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://vectorseek.com/wp-content/uploads/2023/09/Nextjs-Logo-Vector.svg-.png" alt="Next.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+- [Portfolio](https://www.reed.dk)
+- [LinkedIn](https://www.linkedin.com/in/christian-reed/)
 
-</p>
-
-<h3 align="start">Backend</h3>
-<p align="start">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-
-</p>
-
-<h3 align="start">Database</h3>
-<p align="start">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-
-</p>
-
-<h3 align="start">DevOps & Cloud</h3>
-<p align="start">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
-</p>
-
-<h3 align="start">Tools</h3>
-<p align="start">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-![reed logo](https://github.com/ReedorReed/ReedorReed/blob/main/reed-logo.svg)
-
-<!--
-**ReedorReed/ReedorReed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I keep older exercises public as a record of my learning, while the repositories above best represent the kind of work I am ready to contribute to now.
