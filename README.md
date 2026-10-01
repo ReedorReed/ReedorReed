@@ -18,6 +18,6 @@ I’m a newly qualified web developer based in Denmark. I build responsive, user
 ## Elsewhere
 
 - [Portfolio](https://www.reed.dk)
-- [LinkedIn](https://www.linkedin.com/in/christian-reed/)
+- [LinkedIn](https://www.linkedin.com/in/christiansreed/)
 
 I keep older exercises public as a record of my learning, while the repositories above best represent the kind of work I am ready to contribute to now.
