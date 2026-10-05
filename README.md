@@ -7,7 +7,7 @@ I’m a newly qualified web developer based in Denmark. I build responsive, user
 - [Landrup Dans](https://github.com/ReedorReed/landrup-dans-web-app) — my final exam project: a Next.js and TypeScript app for a dance school, with role-based access, server-side session handling, Zod validation and API-driven enrolment rules.
 - [HiFi Horizon](https://github.com/ReedorReed/hifi-horizon) — a full-stack e-commerce application built with React, Express, MongoDB and Mongoose.
 - [Newsify](https://github.com/ReedorReed/project-newsify) — a mobile-first React news reader using the New York Times API, React Context, custom hooks, local persistence and Vitest.
-- [My portfolio](https://www.reed.dk) — selected work, CV and contact details.
+
 
 ## Technologies I work with
 
