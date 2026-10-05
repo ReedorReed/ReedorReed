@@ -1,6 +1,6 @@
 # Hi, I’m Christian Reed
 
-I’m a newly qualified web developer based in Denmark. I build responsive, user-focused web applications and enjoy working across the stack — from interface design and React components to APIs, databases and deployment.
+I’m a developer based in Denmark. I build responsive, user-focused web applications and enjoy working across the stack — from interface design and React components to APIs, databases and deployment.
 
 ## Featured projects
 
